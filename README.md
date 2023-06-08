@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Frontend em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend do projeto [crudsimples_springboot](https://github.com/lucasolasz/crudsimples_springboot)
 
 ## Available Scripts
 
